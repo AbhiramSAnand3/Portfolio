@@ -11,31 +11,31 @@ const NavBar = () => {
     </a>
   </div>
   <div className="m-8 flex items-center justify-center gap-4 text-2xl">
-    <a href="#"
+    <a href="https://www.linkedin.com/in/abhiram-s-anand-b300b4254"
     target="_blank"
     rel="noopener noreferer"
     aria-label="LinkedIn">
     <FaLinkedin/>
     </a>
-    <a href="#"
+    <a href="https://www.instagram.com/0ff_tick?igsh=YXk5bmxsM2t0cXJh"
     target="_blank"
     rel="noopener noreferer"
-    aria-label="LinkedIn">
+    aria-label="instagram">
    <FaInstagram/>
     </a>
     
-    <a href="#"
+    <a href="https://github.com/AbhiramSAnand3"
     target="_blank"
     rel="noopener noreferer"
-    aria-label="LinkedIn">
+    aria-label="github">
     <FaGithub/>
     </a>
 
    
-    <a href="#"
+    <a href="mailto:abhiramsanand932@gmail.com"
     target="_blank"
     rel="noopener noreferer"
-    aria-label="LinkedIn">
+    aria-label="gmail">
    <SiGmail/>
     </a>
 
